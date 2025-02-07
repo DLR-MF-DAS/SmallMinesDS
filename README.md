@@ -1,6 +1,6 @@
 # SmallMinesDS
 
-This repository contains the code and scripts required to reproduce the results presented in our paper *SmallMinesDS*.
+This repository instruction and scripts to reproduce the results presented in our paper *SmallMinesDS*.
 
 ## Prerequisites
 - **Conda** (for managing environments)
