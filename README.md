@@ -65,7 +65,7 @@ conda create -n sam2 python=3.11
 conda activate sam2
 chmod +x install_sam2.sh
 bash install_sam2.sh
-mv ft-sam2.py sam2/
+mv scripts/ft-sam2.py sam2/
 conda deactivate
 ```
 
@@ -75,13 +75,13 @@ Fine-tune Prithvi-2 using our dataset.
 #### Fine-tuning with the 300M Model
 ```bash
 conda activate terratorch
-python train-prithvi-v2-300.py
+python scripts/train-prithvi-v2-300.py
 ```
 
 #### Fine-tuning with the 600M Model
 ```bash
 conda activate terratorch
-python train-prithvi-v2-600.py
+python scripts/train-prithvi-v2-600.py
 ```
 
 #### Training ResNet50 from Scratch
@@ -89,7 +89,7 @@ To compare with Prithvi-2, we train ResNet50 from scratch using six spectral ban
 
 ```bash
 conda activate terratorch
-python train-resnet50-6bands.py
+python scripts/train-resnet50-6bands.py
 ```
 
 #### Fine-tuning the Segment Anything Model v2 (SAM2)
@@ -105,7 +105,7 @@ For a fair comparison in the RGB domain, we fine-tune a ResNet50 model pretraine
 
 ```bash
 conda activate terratorch
-python ft-resnet50.py
+python scripts/ft-resnet50.py
 ```
 
 ### Citation
