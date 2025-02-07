@@ -100,7 +100,7 @@ conda activate sam2
 python sam2/ft-sam2.py
 ```
 
-## Fine-tuning ResNet50 Pretrained on ImageNet
+#### Fine-tuning ResNet50 Pretrained on ImageNet
 For a fair comparison in the RGB domain, we fine-tune a ResNet50 model pretrained on ImageNet and compare its performance with SAM2.
 
 ```bash
