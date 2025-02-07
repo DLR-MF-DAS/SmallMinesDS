@@ -69,7 +69,7 @@ mv ft-sam2.py sam2/
 conda deactivate
 ```
 
-### Fine-tuning Prithvi-2
+#### Fine-tuning Prithvi-2
 Fine-tune Prithvi-2 using our dataset.
 
 #### Fine-tuning with the 300M Model
