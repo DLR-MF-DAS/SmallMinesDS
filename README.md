@@ -72,13 +72,13 @@ conda deactivate
 #### Fine-tuning Prithvi-2
 Fine-tune Prithvi-2 using our dataset.
 
-#### Fine-tuning with the 300M Model
+##### Fine-tuning with the 300M Model
 ```bash
 conda activate terratorch
 python scripts/train-prithvi-v2-300.py
 ```
 
-#### Fine-tuning with the 600M Model
+##### Fine-tuning with the 600M Model
 ```bash
 conda activate terratorch
 python scripts/train-prithvi-v2-600.py
