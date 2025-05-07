@@ -6,7 +6,7 @@
 
 <sup>1</sup> Technical University of Munich, <sup>2</sup> German Aerospace Center (DLR), <sup>3</sup> Industrieanlagen-Betriebsgesellschaft mbH (IABG), <sup>4</sup> Munich Center for Machine Learning
 
-Paper: [Journal](https://sample) (DOI: XXXXXX-XXXXXXX)
+Paper: [Journal](https://ieeexplore.ieee.org/document/10982207) (DOI: 10.1109/LGRS.2025.3566356)
 </div>
 
 
@@ -112,12 +112,16 @@ python scripts/ft-resnet50.py
 If you use the dataset or supporting code in your research, please cite `SmallMinesDS` as :
 
 ```
-@article{sample-preprint,
-    author          = {},
-    month           = xxxx,
-    title           = {{SmallMinesDS: A Multi-Modal Dataset for Mapping Artisanal and Small-Scale Gold Mines}},
-    journal         = {Preprint Available on arxiv:xxxxxx},
-    year            = {2025}
-}
+@ARTICaLE{10982207,
+  author={Ofori-Ampofo, Stella and Zappacosta, Antony and Kuzu, Rıdvan Salih and Schauer, Peter and Willberg, Martin and Zhu, Xiao Xiang},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={SmallMinesDS: A Multi-Modal Dataset for Mapping Artisanal and Small-Scale Gold Mines}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Data mining;Foundation models;Gold;Satellite images;Sentinel-1;Optical sensors;Laser radar;Biological system modeling;Spaceborne radar;Radar imaging;Earth Observation;Semantic Segmentation;Mining;Machine Learning;Foundation Models},
+  doi={10.1109/LGRS.2025.3566356}}
+
 
 ```
