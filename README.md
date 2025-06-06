@@ -17,7 +17,7 @@ Paper: [Journal](https://ieeexplore.ieee.org/document/10982207) (DOI: 10.1109/LG
 
 
 ### Introduction
-The gradual expansion of unregularized artisanal small-scale gold mining (ASGM) fuels environmental degradation and poses a risk to miners and mining communities. To enforce sustainable mining, support reclamation initiatives, and pave the way for understudying the impacts of mining, we present SmallMinesDS, a benchmark dataset for mapping artisanal small-scale gold mining from multi-sensor satellite images. The initial version of the dataset covers five districts in Southwestern Ghana in two time periods. 
+The gradual expansion of unregularized artisanal small-scale gold mining (ASGM) fuels environmental degradation and poses a risk to miners and mining communities. To enforce sustainable mining, support reclamation initiatives, and pave the way for understudying the impacts of mining, we present SmallMinesDS, a dataset for mapping artisanal small-scale gold mining from multi-sensor satellite images. The initial version of the dataset covers five districts in Southwestern Ghana in two time periods. 
 The first version of SmallMinesDS covers five administrative districts in Southwestern Ghana with a ground area of about 3200 sq.km. 
 SmallMinesDS includes satellite images from optical and radar sensors in the dry season (January) for two years (2016 and 2022). 
 The area covered is ecologically diverse, hosting rich biodiversity and serving as a hub for multiple land-use activities, 
