@@ -112,7 +112,7 @@ python scripts/ft-resnet50.py
 If you use the dataset or supporting code in your research, please cite `SmallMinesDS` as :
 
 ```
-@ARTICaLE{10982207,
+@ARTICLE{10982207,
   author={Ofori-Ampofo, Stella and Zappacosta, Antony and Kuzu, Rıdvan Salih and Schauer, Peter and Willberg, Martin and Zhu, Xiao Xiang},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   title={SmallMinesDS: A Multi-Modal Dataset for Mapping Artisanal and Small-Scale Gold Mines}, 
